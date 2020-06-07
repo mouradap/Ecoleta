@@ -1,0 +1,9 @@
+Express é uma biblioteca que facilita a criação das aplicações e as requisições.
+
+Para rodar um arquivo TypeScript, instalar com npm o ts-node
+
+ts-node-dev no lugar do nodemon.
+Carrega o servidor e monitora alterações.  
+
+Para criar o projeto react, usar o pacote create-react-app com npx
+        > npx create-react-app web --template=typescript
